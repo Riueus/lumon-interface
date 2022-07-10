@@ -1,2 +1,2 @@
-# severance interface
+# lumon interface
 interface of the refinement software of the series `Severance` available on AppleTV+
