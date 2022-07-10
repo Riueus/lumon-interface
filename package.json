@@ -2,7 +2,7 @@
   "name": "lumon-interface",
   "version": "0.0.1",
   "description": "lumon-interface",
-  "main": "script.js",
+  "main": "index.html",
   "scripts": {
     "start": "node script.js"
   },
