@@ -49,6 +49,6 @@ document.querySelectorAll("section div").forEach(div => {
         div.style.transform = "scale(1)"
     }
 
-    div.style.transform = "scale("+score+")";
+    //div.style.transform = "scale("+score+")";
 })
 })
